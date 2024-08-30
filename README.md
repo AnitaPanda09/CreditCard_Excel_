@@ -11,13 +11,13 @@ To create an interactive Excel dashboard analyzing credit card transaction habit
 • Trend Analysis: Weekly, monthly, quarterly and yearly spending trends.                   
 
 # Insights    
-Bills is the largest expense by amount (22% of total spend).                
-Avg spend of is highest on Tuesday and Saturday.                 
-Silver card is most popular in female (total 3773 transaction) whereas Platinum card is most popular in males (total 3146 transaction).                
-Females spend (54% of total amount) and (13680 transaction) more than Males.             
-Ahmedabad, Bengaluru, Delhi, Greater Mumbai, Kolkata these are top 5 cities by amount.                  
-Seasonal fluctuations: Spend decrease during rainy season between (June to September) by amount.             
-Food is the largest expense category by transaction.                           
+1. Bills is the largest expense by amount (22% of total spend).                
+2. Avg spend of is highest on Tuesday and Saturday.                 
+3. Silver card is most popular in female (total 3773 transaction) whereas Platinum card is most popular in males (total 3146 transaction).                
+4. Females spend (54% of total amount) and (13680 transaction) more than Males.             
+5. Ahmedabad, Bengaluru, Delhi, Greater Mumbai, Kolkata these are top 5 cities by amount.                  
+6. Seasonal fluctuations: Spend decrease during rainy season between (June to September) by amount.             
+7. Food is the largest expense category by transaction.                           
 
 # Conclusion
 This project has provided actionable insights into spending trends and patterns, enabling businesses and policymakers to optimize strategies and drive growth. Key findings include spending habits by expense type, card type, gender and city as well as monthly and weekly fluctuations. These insights can inform targeted marketing, product development and policy decisions to enhance financial inclusion and credit card adoption in India.
